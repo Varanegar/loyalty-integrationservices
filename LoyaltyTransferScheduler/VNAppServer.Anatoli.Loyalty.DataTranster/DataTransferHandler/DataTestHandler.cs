@@ -22,8 +22,6 @@ namespace VNAppServer.Anatoli.Loyalty.DataTranster.DataTransferHandler
                 //    string URI = serverURI + UriInfo.SaveProductURI;// +privateOwnerQueryString;
                 //    var result = ConnectionHelper.CallServerServicePost(data, URI, client, privateOwnerId, dataOwner, dataOwnerCenter);
                 //}
-
-
                 //Utility.SetLastUploadTime(ProductDataType, currentTime);
 
                 log.Info("Completed CallServerService ");
